@@ -7,15 +7,17 @@ including the gaps it identifies.
 
 ## Rounds completed
 
-- **[Round 1 — Claude (Anthropic)](AI-REVIEW-ROUND-1-CLAUDE.md)** — sub-agent
-  context. Verdict: yes-with-caveats. Named M-trail-style fixes; see review
-  document.
+- **Round 1 — Claude (Anthropic)** — sub-agent context. Verdict: yes-with-caveats.
+  - On GitHub: https://github.com/tonygair/hmpps-release-calculator/blob/main/doc/AI-REVIEW-ROUND-1-CLAUDE.md
+  - In this directory: [AI-REVIEW-ROUND-1-CLAUDE.md](AI-REVIEW-ROUND-1-CLAUDE.md)
 
-- **[Round 2 — Nemotron-3-Super-120B (NVIDIA)](AI-REVIEW-ROUND-2-NEMOTRON.md)** —
-  hybrid Mamba-Transformer, 120B/12B active, run on the DGX Spark hardware
-  with NVIDIA's recommended sampling (temperature 1.0, /no_think directive,
-  enable_thinking=false). Verdict: technically sound demonstration with
-  policy-modelling gaps; mild over-claim in patriotic-act framing.
+- **Round 2 — Nemotron-3-Super-120B (NVIDIA)** — hybrid Mamba-Transformer,
+  120B/12B active, run on a DGX Spark with NVIDIA's recommended sampling
+  (temperature 1.0, /no_think directive, enable_thinking=false). Verdict:
+  technically sound demonstration with policy-modelling gaps; mild over-claim
+  in patriotic-act framing.
+  - On GitHub: https://github.com/tonygair/hmpps-release-calculator/blob/main/doc/AI-REVIEW-ROUND-2-NEMOTRON.md
+  - In this directory: [AI-REVIEW-ROUND-2-NEMOTRON.md](AI-REVIEW-ROUND-2-NEMOTRON.md)
 
 ## Rounds planned
 
