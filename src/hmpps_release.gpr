@@ -1,0 +1,13 @@
+--  hmpps_release.gpr — project file for the HMPPS sentence-release
+--  calculator. Companion to ring_buffer.gpr and release_calc.gpr.
+project HMPPS_Release is
+
+   for Source_Dirs use (".");
+   for Object_Dir  use "obj-hmpps";
+   for Main        use ("hmpps_release_demo.adb");
+
+   package Compiler is
+      for Default_Switches ("Ada") use ("-gnat2012", "-gnata");
+   end Compiler;
+
+end HMPPS_Release;
