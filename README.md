@@ -83,4 +83,4 @@ codes, gnatprove discharges 4/4 obligations.
 
 ## Author
 
-Tony Gair, Dark Factory Ltd (Sunderland), May 2026.
+Tony Gair, The Dark Factory Ltd (Sunderland), May 2026.

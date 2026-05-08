@@ -1,7 +1,7 @@
 ---
 type: covering letter
 purpose: accompanies public-domain release of the HMPPS sentence-release calculator
-author: Tony Gair, Dark Factory Ltd (Sunderland)
+author: Tony Gair, The Dark Factory Ltd (Sunderland)
 date: 2026-05-08
 license_of_artefact: Apache License 2.0 (in the spirit of Open Government Licence v3.0)
 status: draft v1 — for review before circulation
@@ -20,7 +20,7 @@ status: draft v1 — for review before circulation
 - AdaCore (Bristol office), as a sympathetic technical witness
 - Public — via GitHub at github.com/tonygair/[repo to be made public]
 
-**From:** Tony Gair, Dark Factory Ltd, Sunderland (Co. No. 17050402)
+**From:** Tony Gair, The Dark Factory Ltd, Sunderland (Co. No. 17050402)
 
 ---
 
@@ -50,7 +50,7 @@ The review is not a marketing endorsement. Where the artefact has weaknesses or 
 
 Adopt. Fork. Modify. Ignore. The licence permits any of these. There is no expectation of acknowledgement, no commercial offer attached, and no follow-up correspondence implied.
 
-Should HMPPS Digital, MoJ Digital, or any other recipient wish to discuss the methodology by which the artefact was produced — independent of any commercial interest — Dark Factory Ltd in Sunderland holds open all standard channels.
+Should HMPPS Digital, MoJ Digital, or any other recipient wish to discuss the methodology by which the artefact was produced — independent of any commercial interest — The Dark Factory Ltd in Sunderland holds open all standard channels.
 
 If the artefact contributes anything useful to the operational fix the Owens Review's recommendations require, it has done its job.
 
