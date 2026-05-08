@@ -14,7 +14,7 @@ status: draft v1 — for review before circulation
 - HMPPS Digital
 - MoJ Digital, the Permanent Secretary's office
 - The Cabinet Office, oversight of the Owens Review programme
-- The Member of Parliament for Jarrow
+- Kate Osborne MP (Jarrow and Gateshead East)
 - National Cyber Security Centre, Secure-by-Design programme office
 - Defence Science and Technology Laboratory (DSTL), software assurance lead
 - AdaCore (Bristol office), as a sympathetic technical witness
