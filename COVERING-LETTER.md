@@ -15,10 +15,11 @@ status: draft v1 — for review before circulation
 - MoJ Digital, the Permanent Secretary's office
 - The Cabinet Office, oversight of the Owens Review programme
 - Kate Osborne MP (Jarrow and Gateshead East)
-- National Cyber Security Centre, Secure-by-Design programme office
 - Defence Science and Technology Laboratory (DSTL), software assurance lead
+- UK Defence Innovation (UKDI), as the umbrella for the post-DASA defence-innovation routes
+- [TBC: i.AI / CDDO / GOTT — Tony to confirm]
 - AdaCore (Bristol office), as a sympathetic technical witness
-- Public — via GitHub at github.com/tonygair/[repo to be made public]
+- Public — via GitHub at github.com/tonygair/hmpps-release-calculator
 
 **From:** Tony Gair, The Dark Factory Ltd, Sunderland (Co. No. 17050402)
 
