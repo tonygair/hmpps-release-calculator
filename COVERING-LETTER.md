@@ -17,7 +17,7 @@ status: draft v1 — for review before circulation
 - Kate Osborne MP (Jarrow and Gateshead East)
 - Defence Science and Technology Laboratory (DSTL), software assurance lead
 - UK Defence Innovation (UKDI), as the umbrella for the post-DASA defence-innovation routes
-- [TBC: i.AI / CDDO / GOTT — Tony to confirm]
+- i.AI, the Cabinet Office's AI incubator
 - AdaCore (Bristol office), as a sympathetic technical witness
 - Public — via GitHub at github.com/tonygair/hmpps-release-calculator
 
