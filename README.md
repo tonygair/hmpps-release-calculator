@@ -6,6 +6,19 @@ Apache License 2.0 — in the spirit of the Open Government Licence v3.0,
 the standard re-use licence for UK public-sector information. Adopt,
 fork, modify, or ignore without obligation.
 
+## Live demonstrator
+
+**https://hmpps-release-demo.thedarkfactory.dev/**
+
+The same SPARK-verified `Decide` procedure that the CLI demo exercises,
+behind a Gnoga web front-end on UK-resident hardware (Debian 12, x86_64).
+Open the URL in any modern browser, edit the four-source inputs (Court,
+NOMIS, OASys, Delius), click `Calculate`, see one of the seven decision
+reasons from the specification. No external API in the loop — every
+calculation runs through the formally-proven body in this repository.
+
+Source for the GUI layer is in [`gui/`](gui/).
+
 This is a worked illustration, not a deployable system. It is the
 calculation core only: it has no real domain model (no parole rules,
 no HDC/ROTL, no calendar of sentencing types, no live data feeds).
