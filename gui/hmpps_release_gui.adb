@@ -109,6 +109,8 @@ procedure HMPPS_Release_Gui is
       Result_Days   : Gnoga.Gui.Element.Common.DIV_Type;
       Result_Day    : Gnoga.Gui.Element.Common.DIV_Type;
 
+      Footer        : Gnoga.Gui.Element.Common.DIV_Type;
+
       Calculate     : Gnoga.Gui.Element.Form.Submit_Button_Type;
    end record;
 
@@ -288,6 +290,18 @@ procedure HMPPS_Release_Gui is
       App.Result_Reason.Create (Parent => App.View, Content => "(awaiting input)");
       App.Result_Days.Create   (Parent => App.View, Content => "");
       App.Result_Day.Create    (Parent => App.View, Content => "");
+
+      App.Footer.Create
+        (Parent  => App.View,
+         Content =>
+           "<hr style=""margin-top:2em""/>"
+           & "<p><small><em>Worked demonstrator by "
+           & "<strong>The Dark Factory Ltd</strong>, Sunderland. "
+           & "To commission a production version, or apply the same "
+           & "formally-verified approach to other civilian government "
+           & "calculators, contact "
+           & "<a href=""mailto:tony.gair@thedarkfactory.co.uk"">"
+           & "tony.gair@thedarkfactory.co.uk</a>.</em></small></p>");
    exception
       when E : others =>
          Gnoga.Log (Message => "On_Connect: ", Occurrence => E);

@@ -94,6 +94,15 @@ gnatprove -P hmpps_release.gpr --mode=all --level=2 -u hmpps_release.adb
 Expected: clean compile, all six demo paths exercise their reason
 codes, gnatprove discharges 4/4 obligations.
 
+## Commercial enquiries
+
+This calculator is a free public gift under Apache-2.0 — adopt it
+without obligation.
+
+If you'd like to commission a production-grade version, or to apply
+the same formally-verified approach to other civilian government
+calculators, contact `tony.gair@thedarkfactory.co.uk`.
+
 ## Author
 
 Tony Gair, The Dark Factory Ltd (Sunderland), May 2026.

@@ -102,3 +102,13 @@ WebSocket upgrade transparently behind the proxy.
 
 The SPARK core itself (`hmpps_release.ads`/`adb`) lives in the parent
 `src/` directory and is shared between the CLI demo and this GUI.
+
+## Commercial enquiries
+
+This GUI and its SPARK core are a free public gift under Apache-2.0 —
+adopt without obligation.
+
+If you'd like to commission a production-grade version of the
+calculator, or apply the same formally-verified approach to other
+civilian government calculators, contact
+`tony.gair@thedarkfactory.co.uk`.
